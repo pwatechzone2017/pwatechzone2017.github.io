@@ -9,18 +9,27 @@
   "icons": [
     {
       "src": "/images/xl-logo.png",
+      "type": "image/png",
       "sizes": "512x512"
     },
     {
       "src": "/images/large-logo.png",
+      "type": "image/png",
       "sizes": "256x256"
     },
     {
+      "src": "/images/192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
       "src": "/images/medium-logo.png",
+      "type": "image/png",
       "sizes": "128x128"
     },
     {
       "src": "/images/small-logo.png",
+      "type": "image/png",
       "sizes": "64x64"
     }
   ]
