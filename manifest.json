@@ -1,7 +1,7 @@
 {
   "name": "TechZone 2017",
   "short_name": "TZ 2017",
-  "start_url": "./",
+  "start_url": "/index.html",
   "orientation": "portrait",
   "display": "standalone",
   "theme_color": "#ff00ff",
